@@ -1,0 +1,48 @@
+.round-border{
+    border-radius: 0.2;
+}
+
+.circle{
+    border-radius: 50%;
+}
+
+.border-gray{
+    border:2px solid rgb(0,0,0,0.1);
+}
+
+.shadow{
+    box-shadow: 6px 6px 5px rgb(0,0,0,0.2)
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.text-align-left{
+    text-align: left;
+}
+
+.float{
+    float: left;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.color-white{
+    color:white;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+}
